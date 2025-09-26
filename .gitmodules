@@ -4,3 +4,6 @@
 [submodule "CMPT726-LMAT"]
 	path = CMPT726-LMAT
 	url = git@github.com:egoisth777/CMPT726-LMAT.git
+[submodule "CIS5810-LMAT"]
+	path = CIS5810-LMAT
+	url = git@github.com:egoisth777/CIS5810-LMAT.git

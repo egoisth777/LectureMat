@@ -10,3 +10,6 @@
 [submodule "LMAT-CS106L-Stf"]
 	path = LMAT-CS106L-Stf
 	url = git@github.com:egoisth777/LMAT-CS106L-Stf.git
+[submodule "CIS5650-LMat"]
+	path = CIS5650-LMat
+	url = git@github.com:egoisth777/CIS5650-LMat.git

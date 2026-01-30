@@ -13,3 +13,9 @@
 [submodule "CIS5650-LMat"]
 	path = CIS5650-LMat
 	url = git@github.com:egoisth777/CIS5650-LMat.git
+[submodule "CMPT756-Lmat"]
+	path = CMPT756-Lmat
+	url = git@github.com:egoisth777/CMPT756-Lmat.git
+[submodule "CMPT743-LMat"]
+	path = CMPT743-LMat
+	url = git@github.com:egoisth777/CMPT743-LMat.git

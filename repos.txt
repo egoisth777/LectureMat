@@ -1,0 +1,9 @@
+# Each line: <github-user>/<repo-name>
+# Add or remove repos here, then run sync.sh or sync.ps1
+egoisth777/cmpt742-lmat
+egoisth777/cmpt726-lmat
+egoisth777/cis5810-lmat
+egoisth777/cs106l-lmat
+egoisth777/cis5650-lmat
+egoisth777/cmpt756-lmat
+egoisth777/cmpt743-lmat

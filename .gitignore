@@ -1,2 +1,11 @@
 **/.DS_Store
 **/.pycache/
+
+# Cloned repos (managed by sync.sh / sync.ps1)
+cmpt742-lmat/
+cmpt726-lmat/
+cis5810-lmat/
+cs106l-lmat/
+cis5650-lmat/
+cmpt756-lmat/
+cmpt743-lmat/
